@@ -7,7 +7,10 @@ redirect_from:
   - /projects/
   - /projects.html
 ---
-Resilient and Scalable Pharmaceutical Supply Chains Design using Distributed Ledgers
+
+To be updated
+
+<!-- Resilient and Scalable Pharmaceutical Supply Chains Design using Distributed Ledgers
 ======
 <hr />
 This area will continue my current research, and I will keep on addressing the open challenges for creating a resilient Smart Healthcare applications especially counterfeit-free pharmaceutical supply chains.
@@ -41,4 +44,4 @@ Blockchain, while a well-established solution, continue to face spectrum of chal
 
 - Aim 1: Exploring the limitations of existing  consensus mechanisms through which the agreements of distributed nodes in blockchain is achieved. Developing new consensus protocols for overcoming these challenges, such as complex computations, 51% attack, and so on.
 - Aim 2: Proposing energy aware consensus protocols that can be utilized in the IoT environment. Reducing the cost and computational needs for blockchain integrated IoT systems.
-- Aim 3: Developing tools for both functional testing and security analysis of the designed smart contracts in the distributed environment.  
+- Aim 3: Developing tools for both functional testing and security analysis of the designed smart contracts in the distributed environment.   -->
