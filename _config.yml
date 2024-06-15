@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Seema Gangaiah Aarella"
+title                    : "Anand Kumar Bapatla"
 title_separator          : "-"
-name                     : &name "Seema Gangaiah Aarella"
+name                     : &name "Anand Kumar Bapatla"
 description              : &description "personal description"
-url                      : "https://seemaaarella.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://anandkumarbapatla.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "seemaaarella/seemaaarella.github.io"
+repository               : "anandkumarbapatla/anandkumarbapatla.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "CMA.jpg"
+  name             : "Anand Kumar Bapatla"
+  avatar           : "profile_anand.JPG"
   bio              : "Ph.D. Candidate, Department of Computer Science and Engineering"
   location         : "3940 N Elm St"
-  employer         :  "University of North Texas"
+  employer         : "University of North Texas"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=cuNFv-EAAAAJ&hl=en"
-  email            :
-  researchgate     :  "https://www.researchgate.net/profile/Seema-Aarella-2"
+  googlescholar    : "https://scholar.google.com/citations?user=Aah8R5oAAAAJ&hl=en"
+  email            :  "anandkumarbapatla@my.unt.edu"
+  researchgate     :  "https://www.researchgate.net/profile/Anand-Bapatla"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Sirius-Cmatron"
+  github           : "anandkumarbapatla"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/seema-aarella/"
-  orcid            : "http://orcid.org/0009-0006-8807-3352"
+  linkedin         : "https://www.linkedin.com/in/anandkumarbapatla/"
+  orcid            : "https://orcid.org/0000-0003-4567-7827"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -187,14 +187,28 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  projects:
+    output: true
+    permalink: /:collection/:path/
+  awards:
+    output: true
+    permalink: /:collection/:path/
+  service:
+    output: true
+    permalink: /:collection/:path/
+  contact:
+    output: true
+    permalink: /:collection/:path/
+  about:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
-  # _posts
+  # _projects
   - scope:
       path: ""
-      type: posts
+      type: projects
     values:
       layout: single
       author_profile: true
@@ -202,10 +216,10 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+  # _awards
   - scope:
       path: ""
-      type: pages
+      type: awards
     values:
       layout: single
       author_profile: true
@@ -227,21 +241,37 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _service
+  - scope:
+      path: ""
+      type: service
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _about
+  - scope:
+      path: ""
+      type: about
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _contact
+  - scope:
+      path: ""
+      type: contact
+    values:
+      layout: single
       author_profile: true
       share: true
 
