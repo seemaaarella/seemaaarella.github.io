@@ -10,18 +10,18 @@ redirect_from:
 E-mail
 ===
 <hr/>
-E-mail ID: ANANDKUMARBAPATLA@MY.UNT.EDU
+E-mail ID: SEEMAAARELLA@MY.UNT.EDU
 
 Phone Number
 ===
 <hr/>
-(919) 808-9269
+(469) 235 3076
 
 Mailing Address
 ===
 <hr/>
-Anand Kumar Bapatla <br>
+Seema Gangaiah Aarella <br>
 213 Avenue G, <br>
-Apt #20,<br>
+Apt #23,<br>
 Denton,<br>
 TX - 76201<br>
