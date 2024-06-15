@@ -14,3 +14,10 @@ redirect_from:
 - <b>Texas Public Education Grant</b>, Toulouse Graduate School, University of North Texas, 2019-2023
 - <b>Tuition Benefit Scholarship</b>, Toulouse Graduate School, University of North Texas, 2019-2023
 - <b>CENG/DT Award (85\%)</b>, Department of Computer Science and Engineering, 2019-2023
+
+- CENG/DT Award(85%) University of North Texas, 2021-2023 
+- NSF Student Travel Grant for 2023 IEEE Computer Society International Symposium on VLSI (IEEE ISVLSI), 2023 
+- NSF Student Travel Grant for 2022 IEEE International Conference on Communications (IEEE ICC), 2022 
+- Tuition Benefit Scholarship Toulouse Graduate School, University of North Texas, 2020-2024
+- TGS Academic Achievement Award, University of North Texas, 2020-2021 
+- TGS Academic Achievement Award, University of North Texas, 2019-2020 
