@@ -11,6 +11,7 @@ redirect_from:
 ======
 <hr/>
 -  <b>S. G. Aarella</b>, V. P. Yanambaka, S. P. Mohanty, and E. Kougianos, “Fortified-Edge 4.0: A ML-Based Error Correction Framework for Secure Authentication in Collaborative Edge Computing”, in Proceedings of the ACM Great Lakes Symposium on VLSI (GLSVLSI), 2024, pp. 639–644, DOI: https://doi.org/10.1145/3649476.3660384.
+
 2023
 ======
 <hr />
