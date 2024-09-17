@@ -8,40 +8,55 @@ redirect_from:
   - /projects.html
 ---
 
-To be updated
+The research on “Fortified Edge” has promising prospects with huge opportunities for improving and  enhancing the model to its intended optimal application for security at the edge. The integration of ML and AI is a prime focus along with expanding the security model across edge IoT platforms and making the model scalable and interoperable. The scope of the future research is formulated in the following categories:
 
-<!-- Resilient and Scalable Pharmaceutical Supply Chains Design using Distributed Ledgers
+A Scalable and Interoperable Hybrid Mesh-Blockchain Framework for Edge:
 ======
 <hr />
-This area will continue my current research, and I will keep on addressing the open challenges for creating a resilient Smart Healthcare applications especially counterfeit-free pharmaceutical supply chains.
+This research aims to integrate blockchain and Mesh IoT networks to develop a scalable and interoperable security system that addresses scalability issues with blockchain-based authentication systems, by offering dynamic and computationally less critical authentication to the mesh nodes and using blockchain for data-dependent and critical requests to the blockchain for global verification.
 
-- Aim 1: Developing novel system architectures leveraging Distributed Ledger Technologies and Smart Contracts to create a transparent and secure Pharmaceutical Supply Chain, ensuring that pharmaceutical products can be accurately traced from production to consumption, thus reducing the risk of counterfeit drugs.
-- Aim 2: Developing blockchain-based systems and smart contracts to streamline regulatory compliance and reporting processes for pharmaceutical manufacturers, distributors, reducing administrative burdens and enhancing regulatory oversight. 
-- Aim 3: Utilize blockchain technology and IoT to enhance the efficiency of pharmaceutical supply chains by automatic processes, such as inventory management, tracking, and payment settlements, ultimately reducing delays and costs in the production and distribution of drugs.
+- Aim 1: Implement an off-chain storage model where the mesh network stores data locally using the blockchain for secure metadata tracking. This approach reduces the blockchain’s data load, improving network scalability and efficiency.
 
-Blockchain-based Privacy Preserving Architectures for Prescription Management
+- Aim 2: Develop an architecture that integrates mesh networking with blockchain for secure, low-latency communication. The mesh network will handle local, rapid data exchanges, while the blockchain records key interactions for tamper-proof auditing and device tracking.
+
+- Aim 3: Implement a hop-to-hop authentication mechanism within the mesh network using PUF-Based Secure Node Onboarding, allowing each node to verify the authenticity of its neighboring nodes. This hop-to-hop verification will enhance local network security and improve resilience against impersonation attacks
+
+Targeted Applications: Supply chain management, smart homes, intelligent transportation systems, Agriculture IoT, environmental monitoring systems, and rural healthcare IoT networks.
+
+Fortified Edge for Air-Ground Cross-Platform Networks:
 ======
 <hr />
-This project will continue my research towards building efficient prescription management systems to prevent prescription abuse and effective delivery of health services. I plan to explore AI/ML models for modeling accurate demand forecasting of prescription drugs which will address bull-whip effect in pharmaceutical supply chain planning.
+This research aims to develop a cross-platform "Fortified Edge" authentication system designed for air-ground coordination between airborne devices (such as UAVs and drones) and ground nodes.
 
-- Aim 1: Implement blockchain solutions to improve data security and privacy in prescription systems, safeguarding patient information and preventing  unauthorized access or data breaches. 
-- Aim 2: Develop integrated platforms that leverage blockchain for comprehensive prescription data management, making data accessible and actionable for healthcare providers, leading to informed and precise decision-making.
-- Aim 3: Develop demand forecasting models for pharmaceutical products using AI models and federated learning to preserve patient privacy, enabling a more efficient pharmaceutical supply chain planning. 
+- Aim 1: Develop a multi-layer authentication protocol combining PUFs and blockchain technology for secure interactions between airborne devices and ground nodes. This protocol dynamically adjusts security parameters based on environmental factors (e.g., altitude, speed) to ensure robust communication. 
 
-Efficient Decision Support Tools for Smart Agriculture
+- Aim 2: Design a session-based key exchange mechanism where UAVs and ground nodes generate unique encryption keys for each communication session. This approach provides end-toend encryption, reducing the risk of interception and data breaches.
+
+- Aim 3: Introduce a time-sensitive authentication mechanism that adapts to the fast-changing dynamics of air-ground interactions, ensuring that communication links are secure without causing delays in mission-critical operations. 
+
+Targeted Applications: Disaster management, smart agriculture, defense and surveillance systems, emergency response, and logistics involving UAVs, drones, and ground stations
+
+PUF Behavior Monitoring and Adaptive Response System:
 =====
 <hr />
-Smart agriculture is significant due to raising population and harsh ever-changing climatic conditions. This project plans to address these challenges in achieving desired yield while protecting farmers from incurring loses. Building IoT systems for equipping farmers with better decision making tools, facilitating tools for Community Supported Farming (CSA) by removing intermediaries, automated weather-index based crop insurances are some of the goals of this project.
+This research aims to enhance "Fortified Edge" by incorporating Generative Adversarial Networks (GANs) to detect glitch attacks on PUF circuits and propose a GAN-based software PUF to adapt the behavior of the PUF model.
 
-- Aim 1: Implement data-driven decision support tools to help farmers make efficient and sustainable choices regarding water, fertilizer, and pesticides, ultimately optimizing resource utilization and reducing waste.  
-- Aim 2: Implement blockchain technology to improve transparency and traceability in agriculture supply chains, ensuring the authenticity and quality of food products, ultimately promoting consumer confidence and food safety.
-- Aim 3: Utilize IoT, AI/ML approaches to enhance food security by empowering farmers with insights and practices that result in increased crop yields, diversified food production, and a stable and consistent food supply.
+- Aim 1: Create a database that stores the behavioral patterns of the PUFs, as monitored by the GAN model. This database will help in identifying potential anomalies and assist in threat intelligence.  
 
-Energy Efficient and Scalable Blockchain Consensus Protocols for IoT Systems
+- Aim 2:  Use GANs to create a behavior model of the target PUF circuits under normal operating conditions. The generator network will simulate the legitimate responses of the PUF, while the discriminator distinguishes between genuine and manipulated (glitch-induced) responses.
+
+- Aim 3: Propose a GAN-based framework to create a software PUF that simulates the behavior of a physical PUF. The generator in the GAN produces a virtual PUF response for a given challenge, while the discriminator ensures the generated responses exhibit the unpredictability and uniqueness typical
+of hardware PUFs.
+
+Targeted Applications: Secure IoT devices, hardware-based authentication systems, and environments requiring robust PUF integrity monitoring (e.g., smart cities, smart village, critical infrastructure security).
+
+
+Fortified Edge with Post-Quantum Cryptography:
 ====
 <hr />
-Blockchain, while a well-established solution, continue to face spectrum of challenges that limit its seamless adaption in various domains. Issues such as scalability, transaction processing speeds, energy consumption, and interoperability persist, particularly when applied to complex systems like IoT. This project aims to explore those drawbacks and address them.
+This research plan aims to fortify edge networks against quantum computing threats by integrating post-quantum cryptographic algorithms with PUF-based authentication. By addressing key exchange, data privacy, and adaptive security, the proposed design seeks to provide a robust, quantum-resistant framework for securing edge devices in various high-risk IoT applications.
 
-- Aim 1: Exploring the limitations of existing  consensus mechanisms through which the agreements of distributed nodes in blockchain is achieved. Developing new consensus protocols for overcoming these challenges, such as complex computations, 51% attack, and so on.
-- Aim 2: Proposing energy aware consensus protocols that can be utilized in the IoT environment. Reducing the cost and computational needs for blockchain integrated IoT systems.
-- Aim 3: Developing tools for both functional testing and security analysis of the designed smart contracts in the distributed environment.   -->
+- Aim 1: Develop a hybrid authentication protocol that combines PUF-based mechanisms with post-quantum cryptographic algorithms (e.g., lattice-based, hash-based, and multivariate polynomial cryptosystems). This hybrid approach ensures resilience against quantum attacks while maintaining efficient authentication.
+- Aim 2: Introduce a lightweight key exchange protocol using latticebased cryptography tailored for resource-constrained edge devices. This protocol will facilitate secure communication between edge devices without the computational overhead typically associated with quantumsafe algorithms.
+
+- Aim 3: Modify the traditional PUF challenge-response mechanism to incorporate hash-based signatures for added protection. This aims to secure the PUF responses from quantum-powered brute-force attacks, enhancing the overall security of the edge network.  
