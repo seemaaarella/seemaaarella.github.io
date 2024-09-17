@@ -60,3 +60,6 @@ This research plan aims to fortify edge networks against quantum computing threa
 - Aim 2: Introduce a lightweight key exchange protocol using latticebased cryptography tailored for resource-constrained edge devices. This protocol will facilitate secure communication between edge devices without the computational overhead typically associated with quantumsafe algorithms.
 
 - Aim 3: Modify the traditional PUF challenge-response mechanism to incorporate hash-based signatures for added protection. This aims to secure the PUF responses from quantum-powered brute-force attacks, enhancing the overall security of the edge network.  
+
+Targeted Applications: Smart cities, critical infrastructure, industrial IoT, and healthcare IoT systems that require
+robust security against future quantum threats.
