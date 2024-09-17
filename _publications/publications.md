@@ -10,7 +10,10 @@ redirect_from:
 2024
 ======
 <hr/>
+-  <b>S. G. Aarella</b>, V. P. Yanambaka, S. P. Mohanty, and E. Kougianos, “Fortified-Edge 5.0: Federated Learning for Secureand Reliable PUF in Authentication Systems”, Submitted to: IFIP/IEEE International Conference on Very Large Scale Integration, VLSI SoC 2024 (Submitted)
 -  <b>S. G. Aarella</b>, V. P. Yanambaka, S. P. Mohanty, and E. Kougianos, “Fortified-Edge 4.0: A ML-Based Error Correction Framework for Secure Authentication in Collaborative Edge Computing”, in Proceedings of the ACM Great Lakes Symposium on VLSI (GLSVLSI), 2024, pp. 639–644, DOI: https://doi.org/10.1145/3649476.3660384.
+- V. Parlapalli, V. Jayaram, <b>S. G. Aarella</b>, K. Peddireddy and R. R. Palle, ”Enhancing Cybersecurity: A Deep Dive into Augmented Intelligence Through Machine Learning and Image Processing,” 2023 International Workshop on Artificial Intelligence and Image Processing (IWAIIP), Yogyakarta, Indonesia, 2023, pp. 96-100, doi: 10.1109/IWAIIP58158.2023.10462845.
+- Akshay Nagpal, Vivekananda Jayaram, Manjunatha Sughaturu Krishnappa, Nikhil Jagdish Bangad, Manoj Jayntilal Kathiriya, Darshan MohanBidkar, <b>S. G. Aarella</b>,”Performance Analysis of Greedy and Auction-Based Resource Allocation Algorithms in Ubiquitous Computing Environments” Submitted to: IFIP/IEEE International Conference on Very Large Scale Integration, VLSI SoC 2024. (Best Presenter Award)
 
 2023
 ======
@@ -34,4 +37,3 @@ redirect_from:
 =====
 <hr />
 - <b>S. G. Aarella</b>, A. K. Tripathy, S. P. Mohanty, and E. Kougianos, “iTour2.0: A Smart Tourism Application for Independent Mobility of Tourists”, in Proceedings of the OITS International Conference on Information Technology (OCIT), 2021, pp. 472–477, DOI: https://doi.org/10.1109/OCIT53463.2021.00097.
-
