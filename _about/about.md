@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 <hr/>
-
-I am an enthusiastic Ph.D. candidate in the [Smart Electronic Systems Lab (SESL)](https://www.smohanty.org/SESL/index.html), Department of Computer Science and Engineering at the University of North Texas, working under the supervision of [Prof. Dr. Saraju P Mohanty](https://www.smohanty.org/), my specialization involves <b>Internet-of-Things (IoT) Applications, Physical Unclonable Functions (PUFs), Machine Learning, Artificial Intelligence, Collaborative Edge Computing, Cybersecurity, Secure Authentication.</b><br>
+I am an incoming Assistant Professor in the Department of Computer Science at Austin College, Sherma, Texas, USA. I completed my Ph.D.  from  Department of Computer Science and Engineering at the University of North Texas, working under the supervision of [Prof. Dr. Saraju P Mohanty](https://www.smohanty.org/), my specialization involves <b>Internet-of-Things (IoT) Applications, Physical Unclonable Functions (PUFs), Machine Learning, Artificial Intelligence, Collaborative Edge Computing, Cybersecurity, Secure Authentication.</b><br>
 
 I obtained my Master of Technology degree in Signal Processing and VLSI from Jain University, Bangalore, India in 2012. I completed my Master of Science degree in Electrical Systems in the Department of Engineering Technology, University of North Texas, Denton Texas, in 2014. I completed my Bachelor of Engineering degree from Golden Valley Institute of Technology, K.G.F, India in 2000. I have worked as a Lecturer at Kuppam Engineering College, Andhra Pradesh, India for a term of 2 years. In the USA, I have worked as a Software Developer for HMSA (Blue Cross Blue Shield of Hawaii), Honolulu, Hawaii for a period of 2 years.
 

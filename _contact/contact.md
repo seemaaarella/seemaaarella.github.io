@@ -10,18 +10,10 @@ redirect_from:
 E-mail
 ===
 <hr/>
-E-mail ID: SEEMAAARELLA@MY.UNT.EDU
+E-mail ID: saarella@austincollege.edu
 
 Phone Number
 ===
 <hr/>
 (469) 235-3076
 
-Mailing Address
-===
-<hr/>
-Seema Gangaiah Aarella <br>
-213 Avenue G, <br>
-Apt #23,<br>
-Denton,<br>
-TX - 76201<br>

@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Seema Gangaiah Aarella"
+title                    : "Seema G. Aarella"
 title_separator          : "-"
-name                     : &name "Seema Gangaiah Aarella"
+name                     : &name "Seema G. Aarella"
 description              : &description "personal description"
 url                      : https://seemaaarella.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Seema Gangaiah Aarella"
   avatar           : "cma.JPEG"
-  bio              : "Ph.D. Candidate, Department of Computer Science and Engineering"
-  location         : "3940 N Elm St"
-  employer         : "University of North Texas"
+  bio              : "Assistant Professor, Department of Computer Science"
+  location         : "900 N.Grand Avenue, Sherma, TX 75090"
+  employer         : "Austin College"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=cuNFv-EAAAAJ&hl=en"
-  email            :  "SeemaAarella@my.unt.edu"
+  email            :  "saarella@austincollege.edu"
   researchgate     :  "https://www.researchgate.net/profile/Seema-Aarella-2"
   uri              :
   bitbucket        :
